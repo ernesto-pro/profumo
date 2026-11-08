@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.profumoroma.com/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/hero-poster-1600.webp</image:loc>
+      <image:title>La pista di Profumo durante una serata</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/club-04-1600.webp</image:loc>
+      <image:title>La sala di Profumo sotto la soffittura di fiori rossi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/eventi-aziendali-roma/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/club-04-1600.webp</image:loc>
+      <image:title>La sala eventi di Profumo piena di ospiti durante una serata aziendale</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/feste-private-roma/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/club-02-1600.webp</image:loc>
+      <image:title>Ospiti con drink durante una festa privata al Profumo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/compleanni-roma/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/events-01-orig.webp</image:loc>
+      <image:title>Fasci di luce sul pubblico durante una serata al Profumo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/cena-spettacolo-roma/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/club-06-orig.webp</image:loc>
+      <image:title>Ospite che balla sotto le luci della pista durante una serata</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/serate-roma/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/club-01-1600.webp</image:loc>
+      <image:title>Il pubblico in pista durante una serata al Profumo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/matrimoni-roma/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/dining-02-1600.webp</image:loc>
+      <image:title>Il giardino illuminato di Profumo con i tavoli sotto i tendaggi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/zone/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/events-07-1600.webp</image:loc>
+      <image:title>Il cielo sopra il giardino di Profumo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/piano-bar-roma/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/club-05-1600.webp</image:loc>
+      <image:title>Pubblico sotto le luci rosse durante una serata con musica dal vivo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/addio-al-celibato-roma/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/club-07-orig.webp</image:loc>
+      <image:title>Due ospiti vicine durante una serata al club</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/lauree-battesimi-roma/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/dining-01-1600.webp</image:loc>
+      <image:title>Il giardino di Profumo allestito con i tavoli per un pranzo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/aperitivi-roma/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/events-05-1600.webp</image:loc>
+      <image:title>Ospite con calice di vino nella luce calda del lounge</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/zone/vigna-stelluti-tor-di-quinto/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/dining-06-orig.webp</image:loc>
+      <image:title>Luci nel verde del giardino di Profumo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/zone/fleming-vigna-clara/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/club-12-1600.webp</image:loc>
+      <image:title>La sala interna di Profumo con i tavoli tra le piante</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/zone/parioli-flaminio/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/dining-02-1600.webp</image:loc>
+      <image:title>Il giardino illuminato di Profumo con i tavoli sotto i tendaggi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/zone/balduina-monte-mario/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/club-04-1600.webp</image:loc>
+      <image:title>La sala eventi di Profumo piena di ospiti sotto una soffittura di fiori rossi</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/zone/cassia-grottarossa/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/events-07-1600.webp</image:loc>
+      <image:title>Il cielo sopra il giardino di Profumo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.profumoroma.com/zone/centro-prati/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.profumoroma.com/media/img/club-01-1600.webp</image:loc>
+      <image:title>Il pubblico in pista durante una serata al Profumo</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,35 @@
+{
+  "name": "Profumo Spazio Sensoriale",
+  "short_name": "Profumo",
+  "description": "Ristorante, cocktail bar e club nel Parco di Veio, Roma. Cene, eventi e notti fino alle 04:00.",
+  "lang": "it-IT",
+  "dir": "ltr",
+  "id": "/profumo/",
+  "start_url": "/profumo/",
+  "scope": "/profumo/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#07060a",
+  "theme_color": "#07060a",
+  "categories": ["food", "restaurant", "nightlife"],
+  "icons": [
+    {
+      "src": "/profumo/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/profumo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/profumo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

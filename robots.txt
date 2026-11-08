@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Anteprima: il sito pubblico è https://www.profumoroma.com/
